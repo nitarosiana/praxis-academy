@@ -1,0 +1,975 @@
+Microsoft Windows [Version 10.0.18362.592]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\Neni Octavia>bdehdcfg -target default -size 500
+BitLocker Drive Preparation Tool version 10.0.18362
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+BitLocker Drive Preparation Tool version 10.0.18362
+Copyright (C) 2013 Microsoft Corporation. All rights reserved.
+
+The minimum size for the new partition is 550 megabytes. Please specify a size
+of at least 550.
+
+Example: -size 550
+
+C:\Users\Neni Octavia>clip
+
+INFO: Type "CLIP /?" for usage.
+
+C:\Users\Neni Octavia>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::4033:eb0f:f0d7:c55%18
+   IPv4 Address. . . . . . . . . . . : 192.168.100.38
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.100.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+C:\Users\Neni Octavia>systeminfo
+
+Host Name:                 DESKTOP-9BHOCCB
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.18362 N/A Build 18362
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Neni Octavia
+Registered Organization:
+Product ID:                00330-80000-00000-AA157
+Original Install Date:     31/12/2019, 13:05:24
+System Boot Time:          10/02/2020, 20:57:38
+System Manufacturer:       ASUSTeK COMPUTER INC.
+System Model:              X555BP
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 21 Model 112 Stepping 0 AuthenticAMD ~3000 Mhz
+BIOS Version:              American Megatrends Inc. X555BP.326, 13/05/2019
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+07:00) Bangkok, Hanoi, Jakarta
+Total Physical Memory:     3.537 MB
+Available Physical Memory: 884 MB
+Virtual Memory: Max Size:  6.702 MB
+Virtual Memory: Available: 2.563 MB
+Virtual Memory: In Use:    4.139 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-9BHOCCB
+Hotfix(s):                 9 Hotfix(s) Installed.
+                           [01]: KB4532938
+                           [02]: KB4534132
+                           [03]: KB4497727
+                           [04]: KB4516115
+                           [05]: KB4521863
+                           [06]: KB4524569
+                           [07]: KB4528759
+                           [08]: KB4537759
+                           [09]: KB4528760
+Network Card(s):           3 NIC(s) Installed.
+                           [01]: Qualcomm Atheros AR956x Wireless Network Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.100.1
+                                 IP address(es)
+                                 [01]: 192.168.100.38
+                                 [02]: fe80::4033:eb0f:f0d7:c55
+                           [02]: Realtek PCIe GbE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+C:\Users\Neni Octavia>tasklist
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0      6.024 K
+Registry                        88 Services                   0     38.004 K
+smss.exe                       400 Services                   0        476 K
+csrss.exe                      560 Services                   0      3.080 K
+wininit.exe                    688 Services                   0      3.132 K
+services.exe                   760 Services                   0      5.780 K
+lsass.exe                      832 Services                   0     22.820 K
+svchost.exe                    928 Services                   0     24.960 K
+fontdrvhost.exe                940 Services                   0        660 K
+svchost.exe                    252 Services                   0     12.188 K
+svchost.exe                   1064 Services                   0     67.724 K
+svchost.exe                   1104 Services                   0     74.268 K
+svchost.exe                   1304 Services                   0     23.288 K
+svchost.exe                   1312 Services                   0     19.984 K
+atiesrxx.exe                  1340 Services                   0      1.936 K
+svchost.exe                   1424 Services                   0     37.648 K
+svchost.exe                   1500 Services                   0     18.556 K
+svchost.exe                   1608 Services                   0      5.376 K
+Memory Compression            1708 Services                   0     86.496 K
+svchost.exe                   1804 Services                   0     10.340 K
+svchost.exe                   1940 Services                   0     15.912 K
+svchost.exe                   2000 Services                   0      3.168 K
+svchost.exe                   2016 Services                   0      4.972 K
+svchost.exe                   1980 Services                   0     12.388 K
+spoolsv.exe                   2148 Services                   0      9.596 K
+svchost.exe                   2184 Services                   0      8.856 K
+CxAudMsg64.exe                2328 Services                   0      2.148 K
+svchost.exe                   2344 Services                   0     21.964 K
+svchost.exe                   2428 Services                   0      5.652 K
+MsMpEng.exe                   2440 Services                   0     93.592 K
+ICEsoundService64.exe         2448 Services                   0      2.928 K
+SASrv.exe                     2468 Services                   0      1.092 K
+UIUSrv.exe                    2484 Services                   0      1.368 K
+svchost.exe                   2664 Services                   0     10.412 K
+dllhost.exe                   3376 Services                   0      5.948 K
+NisSrv.exe                    3940 Services                   0      5.084 K
+SecurityHealthService.exe     4660 Services                   0      8.040 K
+svchost.exe                   6064 Services                   0      6.528 K
+SgrmBroker.exe                6060 Services                   0      4.056 K
+svchost.exe                   3532 Services                   0      4.424 K
+svchost.exe                  11720 Services                   0     17.412 K
+svchost.exe                   1156 Services                   0      5.876 K
+svchost.exe                  75136 Services                   0     13.232 K
+svchost.exe                  30056 Services                   0      9.840 K
+csrss.exe                    40472 Console                    7      5.060 K
+winlogon.exe                 54384 Console                    7      9.296 K
+fontdrvhost.exe              43164 Console                    7      3.540 K
+dwm.exe                      67608 Console                    7     51.044 K
+atieclxx.exe                 53792 Console                    7     11.236 K
+sihost.exe                   72592 Console                    7     25.952 K
+ctfmon.exe                   71044 Console                    7     15.972 K
+svchost.exe                  72768 Console                    7     43.660 K
+taskhostw.exe                67276 Console                    7     15.956 K
+explorer.exe                 42948 Console                    7    108.668 K
+svchost.exe                  34084 Console                    7     30.100 K
+dllhost.exe                  10560 Console                    7      7.900 K
+StartMenuExperienceHost.e    37716 Console                    7     53.936 K
+RuntimeBroker.exe            73956 Console                    7     23.812 K
+SearchUI.exe                 73096 Console                    7     90.948 K
+RuntimeBroker.exe             8148 Console                    7     39.008 K
+SkypeBackgroundHost.exe      70144 Console                    7      8.720 K
+RuntimeBroker.exe            54876 Console                    7     21.708 K
+ShellExperienceHost.exe      47904 Console                    7     44.316 K
+RuntimeBroker.exe            74548 Console                    7     13.068 K
+SecurityHealthSystray.exe    12152 Console                    7      7.868 K
+OneDrive.exe                 58564 Console                    7     57.272 K
+SkypeApp.exe                 35800 Console                    7     33.640 K
+YourPhone.exe                 5200 Console                    7     29.912 K
+firefox.exe                   6512 Console                    7    328.412 K
+firefox.exe                   7380 Console                    7     55.468 K
+firefox.exe                  62276 Console                    7    317.492 K
+firefox.exe                  48716 Console                    7    112.264 K
+firefox.exe                  60900 Console                    7     59.508 K
+AsusTPLoader.exe             39172 Console                    7      1.040 K
+RuntimeBroker.exe            74088 Console                    7     14.672 K
+RuntimeBroker.exe            31232 Console                    7     13.952 K
+CAudioFilterAgent64.exe      51320 Console                    7      1.976 K
+AsusTPHelper.exe             45856 Console                    7        320 K
+SmartAudio.exe               47036 Console                    7     11.456 K
+CompPkgSrv.exe                5380 Console                    7      7.884 K
+ApplicationFrameHost.exe     43148 Console                    7     29.176 K
+WinStore.App.exe             40512 Console                    7        228 K
+RuntimeBroker.exe            35948 Console                    7     22.548 K
+taskhostw.exe                68696 Console                    7     14.364 K
+MicrosoftEdge.exe            70432 Console                    7     10.324 K
+browser_broker.exe           66472 Console                    7      7.436 K
+dllhost.exe                   8996 Console                    7     12.792 K
+RuntimeBroker.exe            71792 Console                    7      6.748 K
+MicrosoftEdgeSH.exe          73576 Console                    7      6.768 K
+MicrosoftEdgeCP.exe          74468 Console                    7     21.604 K
+SystemSettings.exe           44100 Console                    7        212 K
+AdminService.exe              8060 Services                   0      7.184 K
+MusNotifyIcon.exe            16540 Console                    7     12.944 K
+OfficeClickToRun.exe         17456 Services                   0     40.440 K
+WindowsInternal.Composabl    72580 Console                    7     38.264 K
+AppVShNotify.exe              4124 Services                   0      6.424 K
+AppVShNotify.exe             72032 Console                    7      6.888 K
+dasHost.exe                  33756 Services                   0      8.888 K
+SearchIndexer.exe            55864 Services                   0     31.644 K
+LockApp.exe                  57356 Console                    7     38.344 K
+RuntimeBroker.exe            42360 Console                    7     28.336 K
+AsusTPCenter.exe             50708 Console                    7        988 K
+firefox.exe                  23856 Console                    7    101.724 K
+firefox.exe                  27472 Console                    7    253.868 K
+firefox.exe                  18236 Console                    7    145.544 K
+firefox.exe                  63804 Console                    7     52.076 K
+smartscreen.exe              43604 Console                    7     22.492 K
+cmd.exe                       4040 Console                    7      4.108 K
+conhost.exe                  43124 Console                    7     20.368 K
+svchost.exe                  44004 Services                   0      8.168 K
+notepad.exe                  54252 Console                    7     13.104 K
+backgroundTaskHost.exe       52036 Console                    7     14.940 K
+RuntimeBroker.exe            52104 Console                    7     19.616 K
+cmd.exe                      43556 Console                    7      3.968 K
+conhost.exe                  39880 Console                    7     18.132 K
+WmiPrvSE.exe                 45144 Services                   0     14.440 K
+WmiPrvSE.exe                 28260 Services                   0      8.032 K
+TrustedInstaller.exe         51788 Services                   0      6.852 K
+TiWorker.exe                 47500 Services                   0     10.192 K
+tasklist.exe                 30020 Console                    7      8.300 K
+
+C:\Users\Neni Octavia>netstat
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    127.0.0.1:5915         DESKTOP-9BHOCCB:5916   ESTABLISHED
+  TCP    127.0.0.1:5916         DESKTOP-9BHOCCB:5915   ESTABLISHED
+  TCP    127.0.0.1:5920         DESKTOP-9BHOCCB:5921   ESTABLISHED
+  TCP    127.0.0.1:5921         DESKTOP-9BHOCCB:5920   ESTABLISHED
+  TCP    127.0.0.1:5927         DESKTOP-9BHOCCB:5928   ESTABLISHED
+  TCP    127.0.0.1:5928         DESKTOP-9BHOCCB:5927   ESTABLISHED
+  TCP    127.0.0.1:5929         DESKTOP-9BHOCCB:5930   ESTABLISHED
+  TCP    127.0.0.1:5930         DESKTOP-9BHOCCB:5929   ESTABLISHED
+  TCP    127.0.0.1:6460         DESKTOP-9BHOCCB:6461   ESTABLISHED
+  TCP    127.0.0.1:6461         DESKTOP-9BHOCCB:6460   ESTABLISHED
+  TCP    127.0.0.1:7045         DESKTOP-9BHOCCB:7046   ESTABLISHED
+  TCP    127.0.0.1:7046         DESKTOP-9BHOCCB:7045   ESTABLISHED
+  TCP    127.0.0.1:7622         DESKTOP-9BHOCCB:7623   ESTABLISHED
+  TCP    127.0.0.1:7623         DESKTOP-9BHOCCB:7622   ESTABLISHED
+  TCP    127.0.0.1:7701         DESKTOP-9BHOCCB:7702   ESTABLISHED
+  TCP    127.0.0.1:7702         DESKTOP-9BHOCCB:7701   ESTABLISHED
+  TCP    192.168.100.38:6344    ec2-54-148-100-30:https  ESTABLISHED
+  TCP    192.168.100.38:6381    203:https              ESTABLISHED
+  TCP    192.168.100.38:7538    lb-140-82-113-25-iad:https  ESTABLISHED
+  TCP    192.168.100.38:7676    sa-in-f94:https        ESTABLISHED
+  TCP    192.168.100.38:7679    189:https              ESTABLISHED
+  TCP    192.168.100.38:7688    172.217.194.189:https  ESTABLISHED
+  TCP    192.168.100.38:7715    102:https              ESTABLISHED
+  TCP    192.168.100.38:7716    sc-in-f138:https       ESTABLISHED
+  TCP    192.168.100.38:7717    sc-in-f138:https       ESTABLISHED
+  TCP    192.168.100.38:7718    a-0001:https           ESTABLISHED
+  TCP    192.168.100.38:7719    254:https              ESTABLISHED
+  TCP    192.168.100.38:7720    203:https              ESTABLISHED
+  TCP    192.168.100.38:7721    29:http                ESTABLISHED
+  TCP    192.168.100.38:7722    243:http               ESTABLISHED
+  TCP    192.168.100.38:7723    254:https              ESTABLISHED
+  TCP    192.168.100.38:7724    222:https              ESTABLISHED
+  TCP    192.168.100.38:7725    254:https              ESTABLISHED
+  TCP    192.168.100.38:7726    254:https              ESTABLISHED
+  TCP    192.168.100.38:7727    254:https              ESTABLISHED
+  TCP    192.168.100.38:7728    sb-in-f83:https        ESTABLISHED
+
+C:\Users\Neni Octavia>netnet
+'netnet' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Neni Octavia>net
+The syntax of this command is:
+
+NET
+    [ ACCOUNTS | COMPUTER | CONFIG | CONTINUE | FILE | GROUP | HELP |
+      HELPMSG | LOCALGROUP | PAUSE | SESSION | SHARE | START |
+      STATISTICS | STOP | TIME | USE | USER | VIEW ]
+
+C:\Users\Neni Octavia>nslookup
+DNS request timed out.
+    timeout was 2 seconds.
+Default Server:  UnKnown
+Address:  192.168.100.1
+
+> exit
+
+C:\Users\Neni Octavia>ping google.com
+
+Pinging google.com [216.239.38.120] with 32 bytes of data:
+Reply from 216.239.38.120: bytes=32 time=57ms TTL=56
+Reply from 216.239.38.120: bytes=32 time=27ms TTL=56
+Reply from 216.239.38.120: bytes=32 time=27ms TTL=56
+Reply from 216.239.38.120: bytes=32 time=29ms TTL=56
+
+Ping statistics for 216.239.38.120:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 27ms, Maximum = 57ms, Average = 35ms
+
+C:\Users\Neni Octavia>gpresult
+
+GPRESULT [/S system [/U username [/P [password]]]] [/SCOPE scope]
+           [/USER targetusername] [/R | /V | /Z] [(/X | /H) <filename> [/F]]
+
+Description:
+    This command line tool displays the Resultant Set of Policy (RSoP)
+    information for a target user and computer.
+
+Parameter List:
+    /S        system           Specifies the remote system to connect to.
+
+    /U        [domain\]user    Specifies the user context under which the
+                               command should run.
+                               Can not be used with /X, /H.
+
+    /P        [password]       Specifies the password for the given user
+                               context. Prompts for input if omitted.
+                               Cannot be used with /X, /H.
+
+    /SCOPE    scope            Specifies whether the user or the
+                               computer settings need to be displayed.
+                               Valid values: "USER", "COMPUTER".
+
+    /USER     [domain\]user    Specifies the user name for which the
+                               RSoP data is to be displayed.
+
+    /X        <filename>       Saves the report in XML format at the
+                               location and with the file name specified
+                               by the <filename> parameter. (valid in Windows
+                               Vista SP1 and later and Windows Server 2008 and later)
+
+    /H        <filename>       Saves the report in HTML format at the
+                               location and with the file name specified by
+                               the <filename> parameter. (valid in Windows
+                               at least Vista SP1 and at least Windows Server 2008)
+
+    /F                         Forces Gpresult to overwrite the file name
+                               specified in the /X or /H command.
+
+    /R                         Displays RSoP summary data.
+
+    /V                         Specifies that verbose information should
+                               be displayed. Verbose information provides
+                               additional detailed settings that have
+                               been applied with a precedence of 1.
+
+    /Z                         Specifies that the super-verbose
+                               information should be displayed. Super-
+                               verbose information provides additional
+                               detailed settings that have been applied
+                               with a precedence of 1 and higher. This
+                               allows you to see if a setting was set in
+                               multiple places. See the Group Policy
+                               online help topic for more information.
+
+    /?                         Displays this help message.
+
+
+Examples:
+    GPRESULT /R
+    GPRESULT /H GPReport.html
+    GPRESULT /USER targetusername /V
+    GPRESULT /S system /USER targetusername /SCOPE COMPUTER /Z
+    GPRESULT /S system /U username /P password /SCOPE USER /V
+
+C:\Users\Neni Octavia>netsh
+netsh>exit
+
+
+C:\Users\Neni Octavia>set
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Neni Octavia\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-9BHOCCB
+ComSpec=C:\Windows\system32\cmd.exe
+DriverData=C:\Windows\System32\Drivers\DriverData
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+HOMEDRIVE=C:
+HOMEPATH=\Users\Neni Octavia
+LOCALAPPDATA=C:\Users\Neni Octavia\AppData\Local
+LOGONSERVER=\\DESKTOP-9BHOCCB
+NUMBER_OF_PROCESSORS=2
+OneDrive=C:\Users\Neni Octavia\OneDrive
+OS=Windows_NT
+Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Neni Octavia\AppData\Local\Microsoft\WindowsApps;C:\Users\Neni Octavia\AppData\Roaming\npm
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=AMD64 Family 21 Model 112 Stepping 0, AuthenticAMD
+PROCESSOR_LEVEL=21
+PROCESSOR_REVISION=7000
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\NENIOC~1\AppData\Local\Temp
+TMP=C:\Users\NENIOC~1\AppData\Local\Temp
+USERDOMAIN=DESKTOP-9BHOCCB
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-9BHOCCB
+USERNAME=Neni Octavia
+USERPROFILE=C:\Users\Neni Octavia
+windir=C:\Windows
+
+C:\Users\Neni Octavia>path
+PATH=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Neni Octavia\AppData\Local\Microsoft\WindowsApps;C:\Users\Neni Octavia\AppData\Roaming\npm
+
+C:\Users\Neni Octavia>ver
+
+Microsoft Windows [Version 10.0.18362.592]
+
+C:\Users\Neni Octavia>color 2
+
+C:\Users\Neni Octavia>time
+The current time is: 23:25:26,02
+Enter the new time: 12
+A required privilege is not held by the client.
+
+C:\Users\Neni Octavia>vol
+ Volume in drive C has no label.
+ Volume Serial Number is 3671-869B
+
+C:\Users\Neni Octavia>assoc
+.001=WinRAR
+.386=vxdfile
+.3g2=WMP11.AssocFile.3G2
+.3gp=WMP11.AssocFile.3GP
+.3gp2=WMP11.AssocFile.3G2
+.3gpp=WMP11.AssocFile.3GP
+.7z=WinRAR
+.AAC=WMP11.AssocFile.ADTS
+.accda=Access.ACCDAExtension.16
+.accdb=Access.Application.16
+.accdc=Access.ACCDCFile.16
+.accde=Access.ACCDEFile.16
+.accdr=Access.ACCDRFile.16
+.accdt=Access.ACCDTFile.16
+.accdu=Access.WizardUserDataFile.16
+.accdw=Access.WebApplicationReference.16
+.accft=Access.ACCFTFile.16
+.accountpicture-ms=accountpicturefile
+.acl=ACLFile
+.ade=Access.ADEFile.16
+.adn=Access.BlankProjectTemplate.16
+.adp=Access.Project.16
+.ADT=WMP11.AssocFile.ADTS
+.ADTS=WMP11.AssocFile.ADTS
+.aif=WMP11.AssocFile.AIFF
+.aifc=WMP11.AssocFile.AIFF
+.aiff=PotPlayerMini64.AIFF
+.AMV=PotPlayerMini64.AMV
+.ani=anifile
+.APE=PotPlayerMini64.APE
+.appcontent-ms=ApplicationContent
+.application=Application.Manifest
+.appref-ms=Application.Reference
+.arj=WinRAR
+.asa=aspfile
+.asf=WMP11.AssocFile.ASF
+.asp=aspfile
+.ASS=PotPlayerMini64.ASS
+.asx=PotPlayerMini64.ASX
+.au=WMP11.AssocFile.AU
+.avi=WMP11.AssocFile.AVI
+.aw=AWFile
+.bat=batfile
+.blg=Diagnostic.Perfmon.Document
+.bmp=Paint.Picture
+.bz=WinRAR
+.bz2=WinRAR
+.cab=WinRAR
+.camp=campfile
+.cat=CATFile
+.cda=PotPlayerMini64.CDA
+.cdmp=cdmpfile
+.cdx=aspfile
+.cdxml=Microsoft.PowerShellCmdletDefinitionXML.1
+.cer=CERFile
+.chk=chkfile
+.chm=chm.file
+.cmd=cmdfile
+.com=comfile
+.compositefont=Windows.CompositeFont
+.cpl=cplfile
+.crl=CRLFile
+.crt=CERFile
+.crtx=CRTXFile
+.css=CSSfile
+.csv=Excel.CSV
+.CUE=PotPlayerMini64.CUE
+.cur=curfile
+.db=dbfile
+.dctx=IMEDictionaryCompiler
+.dctxc=IMEDictionaryCompiler
+.dds=ddsfile
+.der=CERFile
+.desklink=CLSID\{9E56BE61-C50F-11CF-9A2C-00A0C90A90CE}
+.deskthemepack=desktopthemepackfile
+.det=Outlook.File.det.15
+.diagcab=Diagnostic.Cabinet
+.diagcfg=Diagnostic.Config
+.diagpkg=Diagnostic.Document
+.dib=Paint.Picture
+.dic=txtfile
+.dll=dllfile
+.DMSKM=PotPlayerMini64.DMSKM
+.doc=Word.Document.8
+.dochtml=wordhtmlfile
+.docm=Word.DocumentMacroEnabled.12
+.docmhtml=wordmhtmlfile
+.docx=Word.Document.12
+.docxml=wordxmlfile
+.dot=Word.Template.8
+.dothtml=wordhtmltemplate
+.dotm=Word.TemplateMacroEnabled.12
+.dotx=Word.Template.12
+.DPG=PotPlayerMini64.DPG
+.DPL=PotPlayerMini64.dpl
+.dqy=dqyfile
+.drv=drvfile
+.DSF=PotPlayerMini64.dsf
+.dsn=MSDASQL
+.DTS=PotPlayerMini64.DTS
+.DTSHD=PotPlayerMini64.DTSHD
+.dvr-ms=PotPlayerMini64.DVR-MS
+.EAC3=PotPlayerMini64.EAC3
+.elm=ELMFile
+.emf=emffile
+.eml=Outlook.File.eml.15
+.EVO=PotPlayerMini64.EVO
+.evt=evtfile
+.evtx=evtxfile
+.exc=txtfile
+.exe=exefile
+.F4V=PotPlayerMini64.F4V
+.fdm=Outlook.File.fdm.15
+.flac=WMP11.AssocFile.FLAC
+.FLV=PotPlayerMini64.FLV
+.fon=fonfile
+.gcsx=GCSXFile
+.gif=giffile
+.gitattributes=txtfile
+.gitignore=txtfile
+.gitmodules=txtfile
+.glox=GLOXFile
+.gmmp=gmmpfile
+.gqsx=GQSXFile
+.gra=MSGraph.Chart.8
+.grp=MSProgramGroup
+.gz=WinRAR
+.hlp=hlpfile
+.hol=Outlook.File.hol.15
+.hta=htafile
+.htm=htmlfile
+.html=htmlfile
+.hxa=MSHelp.hxa.2.5
+.hxc=MSHelp.hxc.2.5
+.hxd=MSHelp.hxd.2.5
+.hxe=MSHelp.hxe.2.5
+.hxf=MSHelp.hxf.2.5
+.hxh=MSHelp.hxh.2.5
+.hxi=MSHelp.hxi.2.5
+.hxk=MSHelp.hxk.2.5
+.hxq=MSHelp.hxq.2.5
+.hxr=MSHelp.hxr.2.5
+.hxs=MSHelp.hxs.2.5
+.hxt=MSHelp.hxt.2.5
+.hxv=MSHelp.hxv.2.5
+.hxw=MSHelp.hxa.2.5
+.icc=icmfile
+.icl=IconLibraryFile
+.icm=icmfile
+.ico=icofile
+.ics=Outlook.File.ics.15
+.IDX=PotPlayerMini64.IDX
+.IFO=PotPlayerMini64.IFO
+.imesx=imesxfile
+.img=Windows.IsoFile
+.inf=inffile
+.ini=inifile
+.iqy=iqyfile
+.iso=Windows.IsoFile
+.jfif=pjpegfile
+.Job=JobObject
+.jod=Microsoft.Jet.OLEDB.4.0
+.jpe=jpegfile
+.jpeg=jpegfile
+.jpg=jpegfile
+.js=JSFile
+.JSE=JSEFile
+.jxr=wdpfile
+.K3G=PotPlayerMini64.K3G
+.label=Label
+.laccdb=Access.LockFile.16
+.ldb=Access.LockFile.16
+.lex=LEXFile
+.lha=WinRAR
+.library-ms=LibraryFolder
+.LMP4=PotPlayerMini64.LMP4
+.lnk=lnkfile
+.log=txtfile
+.lz=WinRAR
+.lzh=WinRAR
+.M1A=PotPlayerMini64.M1A
+.m1v=WMP11.AssocFile.MPEG
+.M2A=PotPlayerMini64.M2A
+.M2T=WMP11.AssocFile.M2TS
+.M2TS=WMP11.AssocFile.M2TS
+.M2V=WMP11.AssocFile.MPEG
+.m3u=WMP11.AssocFile.m3u
+.M3U8=PotPlayerMini64.M3U8
+.m4a=WMP11.AssocFile.M4A
+.m4b=PotPlayerMini64.M4B
+.m4p=PotPlayerMini64.M4P
+.m4v=WMP11.AssocFile.MP4
+.mad=Access.Shortcut.Module.1
+.maf=Access.Shortcut.Form.1
+.mag=Access.Shortcut.Diagram.1
+.mam=Access.Shortcut.Macro.1
+.mapimail=CLSID\{9E56BE60-C50F-11CF-9A2C-00A0C90A90CE}
+.maq=Access.Shortcut.Query.1
+.mar=Access.Shortcut.Report.1
+.mas=Access.Shortcut.StoredProcedure.1
+.mat=Access.Shortcut.Table.1
+.mau=Access.Shortcut.Function.1
+.mav=Access.Shortcut.View.1
+.maw=Access.Shortcut.DataAccessPage.1
+.mda=Access.Extension.16
+.mdb=Access.MDBFile
+.mdbhtml=accesshtmlfile
+.mde=Access.MDEFile.16
+.mdn=Access.BlankDatabaseTemplate.16
+.mdt=Access.WizardDataFile.16
+.mdw=Access.Workgroup.16
+.mht=mhtmlfile
+.mhtml=mhtmlfile
+.mid=WMP11.AssocFile.MIDI
+.midi=WMP11.AssocFile.MIDI
+.mk3d=WMP11.AssocFile.MK3D
+.mka=WMP11.AssocFile.MKA
+.mkv=WMP11.AssocFile.MKV
+.mlc=LpkSetup.1
+.MOD=WMP11.AssocFile.MPEG
+.mov=WMP11.AssocFile.MOV
+.mp2=PotPlayerMini64.MP2
+.mp2v=WMP11.AssocFile.MPEG
+.mp3=WMP11.AssocFile.MP3
+.mp4=WMP11.AssocFile.MP4
+.mp4v=WMP11.AssocFile.MP4
+.mpa=WMP11.AssocFile.MPEG
+.MPC=PotPlayerMini64.MPC
+.mpe=WMP11.AssocFile.MPEG
+.mpeg=WMP11.AssocFile.MPEG
+.mpg=WMP11.AssocFile.MPEG
+.MPL=PotPlayerMini64.MPL
+.MPLS=PotPlayerMini64.MPLS
+.mpv2=WMP11.AssocFile.MPEG
+.MQV=PotPlayerMini64.MQV
+.ms-windows-store-license=WindowsStore.License
+.msc=MSCFile
+.msg=Outlook.File.msg.15
+.msi=Msi.Package
+.msp=Msi.Patch
+.msrcincident=RemoteAssistance.1
+.msstyles=msstylesfile
+.msu=Microsoft.System.Update.1
+.MTS=WMP11.AssocFile.M2TS
+.MXF=PotPlayerMini64.MXF
+.mydocs=CLSID\{ECF03A32-103D-11d2-854D-006008059367}
+.nfo=MSInfoFile
+.nk2=Outlook.File.nk2.15
+.NSR=PotPlayerMini64.NSR
+.nst=Outlook.File.nst.15
+.NSV=PotPlayerMini64.NSV
+.ocx=ocxfile
+.odc=odcfile
+.odccubefile=odccubefile
+.odcdatabasefile=odcdatabasefile
+.odcnewfile=odcnewfile
+.odctablecollectionfile=odctablecollectionfile
+.odctablefile=odctablefile
+.odp=PowerPoint.OpenDocumentPresentation.12
+.ods=Excel.OpenDocumentSpreadsheet.12
+.odt=Word.OpenDocumentText.12
+.ofs=Outlook.File.ofs.15
+.oft=Outlook.File.oft.15
+.ogg=PotPlayerMini64.OGG
+.ogm=PotPlayerMini64.OGM
+.ogv=PotPlayerMini64.OGV
+.ols=OfficeListShortcut
+.opc=OPCFile
+.opus=PotPlayerMini64.OPUS
+.oqy=oqyfile
+.osdx=opensearchdescription
+.ost=Outlook.File.ost.15
+.otf=otffile
+.otm=Outlook.File.otm.15
+.p10=P10File
+.p12=PFXFile
+.p7b=SPCFile
+.p7c=certificate_wab_auto_file
+.p7m=P7MFile
+.p7r=P7RFile
+.p7s=P7SFile
+.pab=Outlook.File.pab.15
+.partial=IE.AssocFile.PARTIAL
+.pbf=PotPlayerMini64.pbf
+.pbk=pbkfile
+.pcb=PCBFile
+.perfmoncfg=Diagnostic.Perfmon.Config
+.pfm=pfmfile
+.pfx=PFXFile
+.pif=piffile
+.pko=PKOFile
+.PLS=PotPlayerMini64.PLS
+.pnf=pnffile
+.png=pngfile
+.pot=PowerPoint.Template.8
+.pothtml=powerpointhtmltemplate
+.potm=PowerPoint.TemplateMacroEnabled.12
+.potx=PowerPoint.Template.12
+.ppa=PowerPoint.Addin.8
+.ppam=PowerPoint.Addin.12
+.ppkg=Microsoft.ProvTool.Provisioning.1
+.pps=PowerPoint.SlideShow.8
+.ppsm=PowerPoint.SlideShowMacroEnabled.12
+.ppsx=PowerPoint.SlideShow.12
+.ppt=PowerPoint.Show.8
+.ppthtml=powerpointhtmlfile
+.pptm=PowerPoint.ShowMacroEnabled.12
+.pptmhtml=powerpointmhtmlfile
+.pptx=PowerPoint.Show.12
+.pptxml=powerpointxmlfile
+.prf=prffile
+.printerExport=brmFile
+.ps1=Microsoft.PowerShellScript.1
+.ps1xml=Microsoft.PowerShellXMLData.1
+.PSB=PotPlayerMini64.PSB
+.psc1=Microsoft.PowerShellConsole.1
+.psd1=Microsoft.PowerShellData.1
+.psm1=Microsoft.PowerShellModule.1
+.pssc=Microsoft.PowerShellSessionConfiguration.1
+.pst=Outlook.File.pst.15
+.pub=Publisher.Document.16
+.pubhtml=publisherhtmlfile
+.pubmhtml=publishermhtmlfile
+.pwz=PowerPoint.Wizard.8
+.py=Python.File
+.pyc=Python.CompiledFile
+.pyd=Python.Extension
+.pyo=Python.CompiledFile
+.pyw=Python.NoConFile
+.pyz=Python.ArchiveFile
+.pyzw=Python.NoConArchiveFile
+.qds=SavedDsQuery
+.QT=PotPlayerMini64.QT
+.r00=WinRAR
+.r01=WinRAR
+.r02=WinRAR
+.r03=WinRAR
+.r04=WinRAR
+.r05=WinRAR
+.r06=WinRAR
+.r07=WinRAR
+.r08=WinRAR
+.r09=WinRAR
+.r10=WinRAR
+.r11=WinRAR
+.r12=WinRAR
+.r13=WinRAR
+.r14=WinRAR
+.r15=WinRAR
+.r16=WinRAR
+.r17=WinRAR
+.r18=WinRAR
+.r19=WinRAR
+.r20=WinRAR
+.r21=WinRAR
+.r22=WinRAR
+.r23=WinRAR
+.r24=WinRAR
+.r25=WinRAR
+.r26=WinRAR
+.r27=WinRAR
+.r28=WinRAR
+.r29=WinRAR
+.RA=PotPlayerMini64.RA
+.RAM=PotPlayerMini64.RAM
+.rar=WinRAR
+.rat=ratfile
+.RDP=RDP.File
+.reg=regfile
+.rels=xmlfile
+.resmoncfg=Diagnostic.Resmon.Config
+.rev=WinRAR.REV
+.rle=rlefile
+.rll=dllfile
+.RM=PotPlayerMini64.RM
+.rmi=WMP11.AssocFile.MIDI
+.RMVB=PotPlayerMini64.RMVB
+.RPM=PotPlayerMini64.RPM
+.rqy=rqyfile
+.RT=PotPlayerMini64.RT
+.rtf=Word.RTF.8
+.SBV=PotPlayerMini64.SBV
+.scf=SHCmdFile
+.scp=txtfile
+.scr=scrfile
+.sct=scriptletfile
+.search-ms=SearchFolder
+.searchConnector-ms=SearchConnectorFolder
+.settingcontent-ms=SettingContent
+.sfcache=RDBFileProperties.1
+.sh=sh_auto_file
+.shtml=shtmlfile
+.SKM=PotPlayerMini64.SKM
+.sldm=PowerPoint.SlideMacroEnabled.12
+.sldx=PowerPoint.Slide.12
+.slk=Excel.SLK
+.SMI=PotPlayerMini64.SMI
+.snd=WMP11.AssocFile.AU
+.spc=SPCFile
+.spl=ShockwaveFlash.ShockwaveFlash
+.SRT=PotPlayerMini64.SRT
+.SSA=PotPlayerMini64.SSA
+.SSF=PotPlayerMini64.SSF
+.sst=CertificateStoreFile
+.SUB=PotPlayerMini64.SUB
+.SUP=PotPlayerMini64.SUP
+.svg=svgfile
+.swf=PotPlayerMini64.SWF
+.symlink=.symlink
+.sys=sysfile
+.TAK=PotPlayerMini64.TAK
+.tar=WinRAR
+.taz=WinRAR
+.tbz=WinRAR
+.tbz2=WinRAR
+.tgz=WinRAR
+.theme=themefile
+.themepack=themepackfile
+.thmx=OfficeTheme.12
+.tif=TIFImage.Document
+.tiff=TIFImage.Document
+.tlz=WinRAR
+.TP=PotPlayerMini64.TP
+.TPR=PotPlayerMini64.TPR
+.TRP=PotPlayerMini64.TRP
+.TS=WMP11.AssocFile.TTS
+.TTA=PotPlayerMini64.TTA
+.ttc=ttcfile
+.ttf=ttffile
+.TTML=PotPlayerMini64.TTML
+.TTS=WMP11.AssocFile.TTS
+.txt=txtfile
+.txz=WinRAR
+.UDL=MSDASC
+.URL=InternetShortcut
+.USF=PotPlayerMini64.USF
+.uu=WinRAR
+.uue=WinRAR
+.uxdc=UXDCFILE
+.VBE=VBEFile
+.vbs=VBSFile
+.vcf=Outlook.File.vcf.15
+.vcs=Outlook.File.vcs.15
+.vdw=VisioViewer.Viewer
+.vdx=VisioViewer.Viewer
+.vhd=Windows.VhdFile
+.vhdpmem=Windows.VhdPmemFile
+.vhdx=Windows.VhdFile
+.vob=PotPlayerMini64.VOB
+.vsd=VisioViewer.Viewer
+.vsdm=VisioViewer.Viewer
+.vsdx=VisioViewer.Viewer
+.vss=VisioViewer.Viewer
+.vssm=VisioViewer.Viewer
+.vssx=VisioViewer.Viewer
+.vst=VisioViewer.Viewer
+.vstm=VisioViewer.Viewer
+.vsto=bootstrap.vsto.1
+.vstx=VisioViewer.Viewer
+.vsx=VisioViewer.Viewer
+.VTT=PotPlayerMini64.VTT
+.vtx=VisioViewer.Viewer
+.vxd=vxdfile
+.wab=wab_auto_file
+.wav=WMP11.AssocFile.WAV
+.wax=PotPlayerMini64.WAX
+.wbcat=wbcatfile
+.wbk=Word.Backup.8
+.wcx=wcxfile
+.wdp=wdpfile
+.webpnp=webpnpFile
+.website=Microsoft.Website
+.wiz=Word.Wizard.8
+.wizhtml=accessthmltemplate
+.wll=Word.Addin.8
+.wm=WMP11.AssocFile.ASF
+.wma=WMP11.AssocFile.WMA
+.WMD=WMP11.AssocFile.WMD
+.wmdb=WMP.WMDBFile
+.wmf=wmffile
+.wmp=PotPlayerMini64.WMP
+.WMS=WMP11.AssocFile.WMS
+.wmv=WMP11.AssocFile.WMV
+.wmx=PotPlayerMini64.WMX
+.wmz=WMP11.AssocFile.WMZ
+.wpl=WMP11.AssocFile.WPL
+.wsc=scriptletfile
+.WSF=WSFFile
+.WSH=WSHFile
+.WTV=PotPlayerMini64.WTV
+.wtx=txtfile
+.WV=PotPlayerMini64.WV
+.wvx=PotPlayerMini64.WVX
+.xaml=Windows.XamlDocument
+.xbap=Windows.Xbap
+.xevgenxml=XEV.GenericApp
+.xht=xhtmlfile
+.xhtml=xhtmlfile
+.xla=Excel.Addin
+.xlam=Excel.AddInMacroEnabled
+.xld=Excel.Dialog
+.xlk=Excel.Backup
+.xll=Excel.XLL
+.xlm=Excel.Macrosheet
+.xls=Excel.Sheet.8
+.xlsb=Excel.SheetBinaryMacroEnabled.12
+.xlshtml=Excelhtmlfile
+.xlsm=Excel.SheetMacroEnabled.12
+.xlsmhtml=excelmhtmlfile
+.xlsx=Excel.Sheet.12
+.xlt=Excel.Template.8
+.xlthtml=Excelhtmltemplate
+.xltm=Excel.TemplateMacroEnabled
+.xltx=Excel.Template
+.xlw=Excel.Workspace
+.xlxml=Excelxmlss
+.xml=xmlfile
+.xrm-ms=MSSppLicenseFile
+.xsl=xslfile
+.XSPF=PotPlayerMini64.XSPF
+.XSS=PotPlayerMini64.XSS
+.xxe=WinRAR
+.xz=WinRAR
+.z=WinRAR
+.ZFSendToTarget=CLSID\{888DCA60-FC0A-11CF-8F0F-00C04FD7D062}
+.zip=WinRAR.ZIP
+.zipx=WinRAR
+
+C:\Users\Neni Octavia>cls
