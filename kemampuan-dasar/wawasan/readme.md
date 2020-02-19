@@ -1,27 +1,32 @@
-Teknologi Informasi (TI), atau dalam bahasa Inggris dikenal dengan istilah Information technology (IT) adalah istilah umum untuk teknologi apa pun yang membantu manusia dalam membuat, mengubah, menyimpan, mengomunikasikan dan/atau menyebarkan informasi. TI menyatukan komputasi dan komunikasi berkecepatan tinggi untuk data, suara, dan video. Contoh dari Teknologi Informasi bukan hanya berupa komputer pribadi, tetapi juga telepon, TV, peralatan rumah tangga elektronik, dan peranti genggam modern (misalnya ponsel).
-•	Dalam konteks bisnis, Information Technology Association of America menjelaskan Pengolahan, penyimpanan dan penyebaran vokal, informasi bergambar, teks dan numerik oleh mikroelektronika berbasis kombinasi komputasi dan telekomunikasi.
-•	Istilah dalam pengertian modern pertama kali muncul dalam sebuah artikel 1958 yang diterbitkan dalam Harvard Business Review, di mana penulis Leavitt dan Whisler berkomentar bahwa "teknologi baru belum memiliki nama tunggal yang didirikan. Kita akan menyebutnya teknologi informasi (TI). ".
-•	Beberapa bidang modern yang muncul dari teknologi informasi adalah generasi berikutnya teknologi web, bioinformatika, ''Cloud Computing'', sistem informasi global, Skala besar basis pengetahuan dan lain-lain.
-Perangkat lunak atau peranti lunak (bahasa Inggris: software) adalah istilah khusus untuk data yang diformat, dan disimpan secara digital, termasuk program komputer, dokumentasinya, dan berbagai informasi yang bisa dibaca, dan ditulis oleh komputer. Dengan kata lain, bagian sistem komputer yang tidak berwujud. Istilah ini menonjolkan perbedaan dengan perangkat keras komputer.[1][2][3]
-Pembuatan perangkat lunak itu sendiri memerlukan "bahasa pemrograman" yang ditulis oleh seorang pemrogram untuk selanjutnya dikompilasi dengan aplikasi kompiler sehingga menjadi kode yang bisa dikenali oleh mesin hardware. Perangkat lunak seperti Windows atau Linux bisa disebut sebagai nyawa dari komputer, di mana tanpa diinstal sistem operasi tersebut maka komputer tidak dapat dijalankan. Perangkat lunak sistem operasi biasanya tersimpan di partisi C sehingga saat komputer mengalami masalah, partisi C yang terkena imbas. Perangkat lunak lain juga tersimpan di partisi C yang apabila komponen tidak lagi berjalan maksimal dapat diuninstal dan diinstal ulang. Data-data lain lebih baik disimpan di partisi D sehingga saat software terkena virus atau tidak berjalan normal kembali maka dapat diinstal ulang dan data penting dapat diselamatkan.
-Di bawah ini ada beberapa contoh macam perangkat lunak, yaitu:
-Perangkat lunak aplikasi (application software) seperti pengolah kata, lembar tabel hitung, pemutar media, dan paket aplikasi perkantoran seperti OpenOffice.org.
-Sistem operasi (operating system) misalnya Linux dan Windows.
-Perkakas pengembangan perangkat lunak (software development tool) seperti Kompilator untuk bahasa pemrograman tingkat tinggi seperti Pascal dan bahasa pemrograman tingkat rendah yaitu bahasa rakitan.
-Pengendali perangkat keras (device driver) yaitu penghubung antara perangkat perangkat keras pembantu, dan komputer adalah software yang banyak dipakai di swalayan, dan juga sekolah, yaitu penggunaan barcode scanner pada aplikasi database lainnya.Kesalahan pengutipan: Tag <ref> tidak sah;
-nama tidak sah; misalnya, terlalu banyak
-Perangkat lunak menetap / Perangkat lunak tegar (firmware) seperti yang dipasang dalam jam tangan digital, dan pengendali jarak jauh.
-Perangkat lunak bebas (free 'libre' software) dan Perangkat lunak sumber terbuka (open source software)
-Perangkat lunak gratis (freeware)
-Perangkat lunak uji coba (shareware / trialware)
-Perangkat lunak perusak (malware)
-2. Program yang berjudul Ilmu Komputer dan Teknik Informatika pada dasarnya adalah program yang sama. Cakupannya cukup luas, mulai dari fondasi teoritis mengenai perancangan algoritma, yaitu konsep dasar yang melandasi pengembangan perangkat lunak, sampai kepada penerapan mutakhir berupa aplikasi robotika, kecerdasan buatan, bio-informatika, dan topik-topik menarik lainnya.
+# RANGKUMAN #
 
-3. Proses pengembangan perangkat lunak (Software development process) adalah suatu struktur yang diterapkan pada pengembangan suatu produk perangkat lunak yang bertujuan untuk mengembangkan sistem dan memberikan panduan yang bertujuan untuk menyukseskan proyek pengembangan sistem melalui tahap demi tahap.[1] Proses ini memiliki beberapa model yang masing-masing menjelaskan pendekatan terhadap berbagai tugas atau aktivitas yang terjadi selama proses. Contoh model proses pengembangan perangkat lunak antara lain adalah proses iteratif, Extreme Programming, serta proses air terjun (waterfall).
+    Teknologi informasi adalah penggunaan komputer untuk
+yang membantu manusia dalam membuat, mengubah, menyimpan, mengomunikasikan dan/atau menyebarkan informasi. TI menyatukan komputasi dan komunikasi berkecepatan tinggi untuk data, suara, dan video. Contoh dari Teknologi Informasi bukan hanya berupa komputer pribadi, tetapi juga telepon, TV, peralatan rumah tangga elektronik, dan peranti genggam modern (misalnya ponsel).
 
-4. Agile development methods merupakan salah satu dari Metodologi pengembangan perangkat lunak yang digunakan dalam pengembangan perangkat lunak. Agile memiliki pengertian bersifat cepat, ringan, bebas bergerak, dan waspada.[1] Sehingga saat membuat perangkat lunak dengan menggunakan agile development methods diperlukan inovasi dan responsibiliti yang baik antara tim pengembang dan klien agar kualitas dari perangkat lunak yang dihasilkan bagus dan kelincahan dari tim seimbang.
-5. SCRUM adalah salah satu metode rekayasa perangkat lunak dengan menggunakan prinsip-prinsip pendekatan AGILE, yang bertumpu pada kekuatan kolaborasi tim, incremental product dan proses iterasi untuk mewujudkan hasil akhir.
+    Semakin majunya teknologi informasi, bermunculan ilmu
+seperti ilmu komputer dan informatika. berikut perbedaannya :
+a. ilmu komputer
+    - studi tentang teori, eksperimen, dan teknik yang membentuk dasar untuk desain dan penggunaan komputer
+    - pendekatan ilmiah dan praktis untuk komputasi dan penerapannya serta studi sistematis kelayakan, struktur, ekspresi, dan mekanisasi dari prosedur metodis (atau algoritma) yang mendasari akuisisi, representasi, pemrosesan, penyimpanan, komunikasi, dan akses untuk informasi
+    - mengotomatisasi proses algoritme yang berskala
+b. informatika
+    - cabang dari rekayasa informasi. Ini melibatkan praktik pengolahan informasi dan rekayasa sistem informasi, dan sebagai bidang akademik itu adalah bentuk ilmu informasi yang diterapkan
+    - mempertimbangkan interaksi antara manusia dan informasi di samping pembangunan antarmuka, organisasi, teknologi dan sistem
+
+### Pengembangan perangkat lunak ###
+
+    adalah proses memahami, menentukan, merancang, memprogram,
+suatu produk perangkat lunak yang bertujuan untuk mengembangkan sistem dan memberikan panduan yang bertujuan untuk menyukseskan proyek pengembangan sistem melalui tahap demi tahap.[1] Proses ini memiliki beberapa model yang masing-masing menjelaskan pendekatan terhadap berbagai tugas atau aktivitas yang terjadi selama proses. Contoh model proses pengembangan perangkat lunak antara lain adalah proses iteratif, Extreme Programming, serta proses air terjun (waterfall).
+
+### Scrum ###
+
+    adalah kerangka kerja yang ringan, berulang , dan
+salah satu metode rekayasa perangkat lunak dengan menggunakan prinsip-prinsip pendekatan AGILE, yang bertumpu pada kekuatan kolaborasi tim, incremental product dan proses iterasi untuk mewujudkan hasil akhir.
 Teknik SCRUM dapat dilakukan di sebuah kepanitiaan ataupun project lain diluar bisnis teknologi informasi. Dalam teknik SCRUM terbagi dalam tiga roles, yang pertama adalah Product Owner, Scrum Master dan Develophment/Scurm Team. 
 Teknik srum dimulai dari pembahasan project antara Product Owner dengan Stakeholder terkait, lalu dibentuklah Srum Master dan Team Development. Lahkah pertama yang dilakukan oleh Scrum master adalah dengan membuat semua list pekerjaan yang sebut juga dengan User Story, User Stori tersebut dibuat di media yang dinamakan Backlog yang di tempel di TaskBoard
 
-6. XP merupakan suatu model yang tergolong dalam pendekatan agile yang diusulkan oleh Kent Back. Menurut penjelasannya, definisi XP adalah sebagai berikut: “Extreme Programming (XP) is a lightweight, efficient, low-risk, flexible, predictable, scientific, and fun way to develop software“. Model ini cenderung menggunakan pendekatan Object-Oriented. Tahapan-tahapan yang harus dilalui antara lain: Planning, Design, Coding, dan Testing. Sasaran Extreme Programming adalah tim yang dibentuk berukuran antara kecil sampai medium saja, tidak perlu menggunakan sebuah tim yang besar. Hal ini dimaksudkan untuk menghadapi requirements yang tidak jelas maupun terjadinya perubahan-perubahan requirements yang sangat cepat. Extreme Programming merupakan agile methods yang paling banyak digunakan dan menjadi sebuah pendekatan yang sangat terkenal.
+
+### Extreme Programming ###
+
+    adalah metodologi pengembangan perangkat lunak yang
+tergolong dalam pendekatan agile yang diusulkan oleh Kent Back. Menurut penjelasannya, definisi XP adalah sebagai berikut: “Extreme Programming (XP) is a lightweight, efficient, low-risk, flexible, predictable, scientific, and fun way to develop software“. Model ini cenderung menggunakan pendekatan Object-Oriented. Tahapan-tahapan yang harus dilalui antara lain: Planning, Design, Coding, dan Testing. Sasaran Extreme Programming adalah tim yang dibentuk berukuran antara kecil sampai medium saja, tidak perlu menggunakan sebuah tim yang besar. Hal ini dimaksudkan untuk menghadapi requirements yang tidak jelas maupun terjadinya perubahan-perubahan requirements yang sangat cepat. Extreme Programming merupakan agile methods yang paling banyak digunakan dan menjadi sebuah pendekatan yang sangat terkenal.
