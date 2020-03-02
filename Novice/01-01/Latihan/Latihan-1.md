@@ -10,6 +10,7 @@
 ![intall plugin python](https://github.com/nitarosiana/DokumentasiVSC/blob/master/01-01-04.PNG)
 
 4. Lalu save as sembarang file dengan ekstensi *.py*, maka akan muncul notif **Linter pylint is not installed**, kemudian **install linter terlebih dahulu.
+
 ![intall linter](https://github.com/nitarosiana/DokumentasiVSC/blob/master/01-01-05.PNG)
 
 5. Penginstallan berhasil.
