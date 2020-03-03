@@ -16,7 +16,8 @@
 ![gambar6](https://github.com/nitarosiana/DokumentasiKP/blob/master/01-02/Latihan/01-02-06.PNG)
 ![gambar7](https://github.com/nitarosiana/DokumentasiKP/blob/master/01-02/Latihan/01-02-07.PNG)
 
-4. Errors dan Exception
+4. Errors dan Exceptions
+
 ![gambar8](https://github.com/nitarosiana/DokumentasiKP/blob/master/01-02/Latihan/01-02-08.PNG)
 ![gambar9](https://github.com/nitarosiana/DokumentasiKP/blob/master/01-02/Latihan/01-02-09.PNG)
 ![gambar10](https://github.com/nitarosiana/DokumentasiKP/blob/master/01-02/Latihan/01-02-10.PNG)
