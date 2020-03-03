@@ -8,15 +8,16 @@
 
 ![gambar2](https://github.com/nitarosiana/DokumentasiKP/blob/master/01-02/Kasus/01-02-02.PNG)
 
-3. Selection Sort
+3. import modul Selection Sort
 
 ![gambar3](https://github.com/nitarosiana/DokumentasiKP/blob/master/01-02/Kasus/01-02-03.PNG)
 
-4. Quick Sort
+4. import modul Quick Sort
 
 ![gambar4](https://github.com/nitarosiana/DokumentasiKP/blob/master/01-02/Kasus/01-02-04.PNG)
 
-5. Merge Sort
+5. import modul Merge Sort
+
 ![gambar5](https://github.com/nitarosiana/DokumentasiKP/blob/master/01-02/Kasus/01-02-05.PNG)
 
 6. Hasilnya:
