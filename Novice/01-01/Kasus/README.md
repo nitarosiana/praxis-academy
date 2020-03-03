@@ -6,6 +6,7 @@
 
 
 * Insertion Sort
+
 ![bubble](https://github.com/nitarosiana/DokumentasiKP/blob/master/01-01/Kasus/01-01-03.PNG)
 ![bubble](https://github.com/nitarosiana/DokumentasiKP/blob/master/01-01/Kasus/01-01-04.PNG)
 
