@@ -37,7 +37,6 @@ print('=================================================')
 
 import Merge_Sort
 
-
 list = [2,5,60,43,27,10,89,17]
 print('Data yang di sort :', list )
 print('Merge Sort :')
