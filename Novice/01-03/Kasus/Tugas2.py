@@ -1,9 +1,10 @@
 import datetime
 import time
 
-waktu = time.time()
-sekarang = datetime.today()
+
+sekarang = datetime.datetime.now()
 tanggal = sekarang.date()
+waktu = sekarang.time()
 
 print ('Hari = ',tanggal.day)
 print ('Bulan = ',tanggal.month)
