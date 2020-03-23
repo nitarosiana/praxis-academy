@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <pople>
+        <name>Nita Rosiana</name>
+        <prodi>Sistem Informasi</prodi>
+        <fakultas>FAST</fakultas>
+    </people>
+    <pople>
+        <name>Devia Oktavia</name>
+        <prodi>Matematika</prodi>
+        <fakultas>FAST</fakultas>
+    </people>
+</root>
