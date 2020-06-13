@@ -1,5 +1,5 @@
 import pymysql
-	from app import app
+from app import app
 	from db_config import mysql
 	from flask import jsonify
 	from flask import flash, request
@@ -25,7 +25,7 @@ import pymysql
 				cursor = conn.cursor()
 				cursor.execute(sqlQuery, data)
 				conn.commit()
-				res = jsonify('User created successfully.')
+				res = jsonify('User creating successfully.')
 				res.status_code = 200
  
 				return res
@@ -92,7 +92,7 @@ import pymysql
 				cursor = conn.cursor()
 				cursor.execute(sql, data)
 				conn.commit()
-				res = jsonify('User updated successfully.')
+				res = jsonify('User updating successfully.')
 				res.status_code = 200
  
 				return res
