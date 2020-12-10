@@ -1,6 +1,5 @@
 import Bubble_Sort
 
-
 list =[7,8,6,4,1,3]
 print("Data yang di sort", list)
 print("Bubble Sort :")
@@ -34,11 +33,3 @@ print('Quick Sort :')
 Quick_Sort.quicksort(a,0,len(a)-1)
 print('=================================================')
 
-
-import Merge_Sort
-
-list = [2,5,60,43,27,10,89,17]
-print('Data yang di sort :', list )
-print('Merge Sort :')
-Merge_Sort.mergesort(list)
-print('=================================================')
