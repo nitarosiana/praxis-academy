@@ -1,0 +1,3 @@
+import nnn
+
+nnn.menyapa()
