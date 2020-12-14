@@ -12,3 +12,11 @@ print ('Tahun = ',tanggal.year)
 print ('jam = ',waktu.hour)
 print ('Menit = ',waktu.minute)
 print ('Detik = ',waktu.second)
+
+time.sleep(10)
+
+sekarang2 = datetime.datetime.now()
+
+delta = sekarang2 - sekarang
+
+print ('selisih detik : ', delta.total_seconds())

@@ -13,9 +13,9 @@ print(square(5))
 
 print("===================================")
 
-arr1 = [1, 2, 3]:
-arr2 = []:
+arr1 = [1, 2, 3]
+arr2 = []
 
-for 
+for i in arr2.push(arr1[i] * 2):
 
-
+    
